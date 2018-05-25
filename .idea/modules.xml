@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot演示.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot演示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boot-oss/boot-oss.iml" filepath="$PROJECT_DIR$/boot-oss/boot-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/jeelite-common.iml" filepath="$PROJECT_DIR$/common/jeelite-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/jeelite-parent.iml" filepath="$PROJECT_DIR$/parent/jeelite-parent.iml" />
+    </modules>
+  </component>
+</project>
